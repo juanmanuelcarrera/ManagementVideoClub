@@ -1,0 +1,25 @@
+1111
+Inception
+0
+125
+3.25
+S
+2222
+Star Trek
+0
+112
+3.25
+S
+3333
+Pirados a tope
+2
+88
+0.5
+N
+4444
+Mas pirados todavia
+2
+0
+0.25
+S
+-1

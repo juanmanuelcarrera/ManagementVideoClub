@@ -1,0 +1,42 @@
+12345678A
+Pablo
+Moreno Ger
+0
+1111
+S
+2222
+S
+1111
+S
+-1
+12345678B
+Luis Antonio
+Hernandez Ya¤ez
+3
+3333
+N
+1111
+N
+2222
+N
+-1
+12345678C
+Raquel
+Hervas
+1
+2222
+S
+1111
+S
+-1
+12345678D
+Manuel
+Ortega
+4
+-1
+12345678E
+Carlos
+Cervigon
+2
+-1
+X
